@@ -1,0 +1,46 @@
+@media (min-width:768px) {
+
+}
+
+@media (min-width:992px) {
+    .templeDetailBlock .col-md-9,
+    .poojariDetailBlock .col-md-9,
+    .blogDetailBlock .col-md-9 {
+        flex: 0 0 auto;
+        width: 71.5%;
+    }
+    .templeDetailBlock .col-md-3,
+    .poojariDetailBlock .col-md-3,
+    .blogDetailBlock .col-md-3 {
+        flex: 0 0 auto;
+        width: 28.5%;
+    }
+    
+}
+
+@media (min-width:1200px) {
+
+}
+
+@media (min-width:1500px) {
+    .container {
+        max-width: 1440px !important;
+    }
+}
+
+
+@media (min-width:992px) and (max-width:1199px) {
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+}
+
+@media (max-width:767px) {
+
+}
+
+@media (min-width:320px) and (max-width:480px) {
+
+}
